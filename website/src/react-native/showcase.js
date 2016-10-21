@@ -310,7 +310,15 @@ var featured = [
     linkAppStore: 'http://apple.co/2dfkYH9',
     infoLink: 'https://blog.getchop.io/how-we-built-chop-bae3d8acd131#.7y8buamrq',
     infoTitle: 'How we built Chop',
-  }  
+  },
+  {
+    name: 'Togetter',
+    icon: 'https://pbs.twimg.com/media/CvRV5-1UEAA8Lex.png',
+    linkAppStore: 'https://itunes.apple.com/jp/app/togetter/id387151129?mt=8',
+    linkPlayStore: 'http://play.google.com/store/apps/details?id=com.togetter.app',
+    infoLink: 'http://togetter.co.jp',
+    infoTitle: 'Togetter is curation media service'
+  }
 ];
 
 /*
